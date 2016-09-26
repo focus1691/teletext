@@ -1,4 +1,4 @@
-Run Main.exe to run the teletext system.
+Run Main.exe to launch the teletext system.
 The SDL 2 running time libraries are included to make the executable work.
 
 Controls:
