@@ -13,4 +13,4 @@ f -------------- fullscreen / windowed mode
 
 del ------------ delete a control code
    
-The .m7 files are used as command line arguments to print images. To do this, cd to the files directory, and type "main.exe panda.m7" to run the image of a panda.
+The .m7 files are used as command line arguments to print images. To do this, cd to the file directory, and type "main.exe panda.m7" to run the image of a panda.
