@@ -2,6 +2,7 @@ Run Main.exe to run the teletext system.
 The SDL 2 running time libraries are included to make the executable work.
 
 Controls:
+
 h -------------- show / hide keyboard (works only in windowed mode)
 
 f -------------- fullscreen / windowed mode
