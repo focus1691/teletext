@@ -10,7 +10,7 @@ To manually install teletext, you need to download and install the [SDL 2.0 libr
 
 ### Controls
 
-* **h** show / hide keyboard
+* h -------------- show / hide keyboard
 * f -------------- fullscreen / windowed mode
 * < -------------- move left
 * > -------------- move right
