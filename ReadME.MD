@@ -3,7 +3,7 @@ The SDL 2 running time libraries are included to make the executable work.
 
 Controls:
 
-h -------------- show / hide keyboard (works only in windowed mode)
+h -------------- show / hide keyboard
 
 f -------------- fullscreen / windowed mode
 
